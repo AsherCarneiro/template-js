@@ -1,7 +1,7 @@
 {
-    "name": "nano-react-app-template",
+    "name": "make-sreact-app-template",
     "version": "0.1.0",
-    "description": "Hard to get more minimal than this React app",
+    "description": "Minimal React app",
     "license": "MIT",
     "scripts": {
         "start": "vite",

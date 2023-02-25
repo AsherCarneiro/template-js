@@ -1,8 +1,11 @@
-import React from "react";
+import React from 'react';
+import './appstyle.css';
 
-export default () => (
-  <>
-    <h1>Welcome to React Vite Micro App!</h1>
-    <p>Hard to get more minimal than this React app.</p>
-  </>
-);
+export default function App() {
+  return (
+    <div className="container">
+      <h1 className="heading">Sreact App ✌</h1>
+      <p className="description">Start making changes at <u> src/App.jsx </u></p>
+    </div>
+  );
+}
